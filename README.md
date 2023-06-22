@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehdigharibi 
-- 👀 I’m interested in Programming , Network Security , Malware Malware Analysis Papers Only :D
+- 👀 I’m interested in Programming , Network Security , Malware Malware Analysis
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me just think !
